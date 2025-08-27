@@ -142,7 +142,10 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 **スクリーンショット：**
 ![スコアリング画面](img/screen_sample.png)
 
-**実行デモ動画(1:15)：**
+**StreamlitアプリのURL：**                                            
+https://sappororentscraperfixed-ephaed8es35af4vvturrhm.streamlit.app/
+
+**実行デモ動画(1:15)：**                                               
 https://1drv.ms/v/c/aa77078cc99cfacf/EQ30pYW5ITxBlSkHYgYXMEIB-EKeImoFcViFGa_t60cj9Q
 
 
@@ -157,7 +160,6 @@ https://1drv.ms/v/c/aa77078cc99cfacf/EQ30pYW5ITxBlSkHYgYXMEIB-EKeImoFcViFGa_t60c
 
 - 結果の「いいね」機能、履歴保持
 - Streamlit上での検索条件変更UI
-- デプロイ対応
 - AIコメント生成の精度向上
 
 <br>
